@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const siteName = 'SHANMALL';","map":{"version":3,"sources":["C:/Users/thetn/OneDrive/Desktop/ecommpj/utils/config.js"],"names":["siteName"],"mappings":"AAAA,OAAO,MAAMA,QAAQ,GAAG,UAAjB","sourcesContent":["export const siteName = 'SHANMALL';\n"]},"metadata":{},"sourceType":"module"}

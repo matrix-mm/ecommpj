@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var siteName = 'Coolshop';","map":{"version":3,"sources":["C:/Users/thetn/OneDrive/Desktop/ecommpj/utils/config.js"],"names":["siteName"],"mappings":"AAAA,OAAO,IAAMA,QAAQ,GAAG,UAAjB","sourcesContent":["export const siteName = 'Coolshop';\n"]},"metadata":{},"sourceType":"module"}
